@@ -20,6 +20,8 @@
   },
   "devDependencies": {
     "@quasar/app-vite": "^1.0.0",
+    "@unocss/preset-attributify": "^0.53.1",
+    "@unocss/preset-icons": "^0.53.1",
     "@unocss/preset-uno": "^0.53.1",
     "@unocss/vite": "^0.53.1",
     "autoprefixer": "^10.4.2",
