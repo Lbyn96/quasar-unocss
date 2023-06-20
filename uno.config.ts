@@ -12,7 +12,6 @@ export default defineConfig({
     "custom-shortcut": "text-lg text-orange hover:text-teal",
   },
   presets: [
-    presetUno(),
     presetIcons({
       scale: 1.2,
       cdn: "https://esm.sh/",
